@@ -1,9 +1,11 @@
 import './App.css';
 
+import HomePage from './components/homepage.component.jsx';
+
 function App() {
   return (
     <div>
-      yo i am the first new edit.
+      <HomePage></HomePage>
     </div>
   );
 }
